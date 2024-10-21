@@ -1,4 +1,4 @@
 services:
   backend:
     build: .
-    
+    command: go run main.go
